@@ -1,0 +1,14 @@
+ <style>
+        /* part b */
+        th, td {
+            background-color: yellow;
+        }
+        
+        th:hover, td:hover {
+            background-color: aqua;
+        }
+        
+        p {
+            color: blue;
+        }
+    </style>
